@@ -2,8 +2,8 @@
 ```markdown
 # Redis Overview
 
-Redis (Remote Dictionary Server) is an open-source, in-memory data structure store that can be used as a database, cache, and message broker. 
-Known for its high performance, scalability, and versatility, Redis is a popular choice for many applications.
+Redis (Remote Dictionary Server) is an open-source, in-memory data structure store that can be used as
+ a database, cache, and message broker. Known for its high performance, scalability, and versatility, Redis is a popular choice for many applications.
 
 ##  Use Cases
 
